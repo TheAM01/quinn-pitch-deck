@@ -18,14 +18,10 @@ export function Slide14() {
         <div className="space-y-12 animate-fade-in" style={{ animationDelay: "0.2s" }}>
           <div className="grid grid-cols-2 gap-12">
             <div>
-              <p className="text-xs font-bold tracking-widest text-foreground/50 mb-6">CURRENT VALUATION</p>
+              <p className="text-xs font-bold tracking-widest text-foreground/50 mb-6">VALUATION</p>
               <div className="space-y-6">
                 <div>
                   <p className="text-5xl font-black">$1M</p>
-                  <p className="text-sm text-foreground/60 mt-2">Post-money valuation</p>
-                </div>
-                <div className="border-t border-foreground/20 pt-6">
-                  <p className="text-4xl font-black"></p>
                   <p className="text-sm text-foreground/60 mt-2">Post-money valuation</p>
                 </div>
               </div>
